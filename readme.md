@@ -1,4 +1,4 @@
-![meteor](http://photos2.meetupstatic.com/photos/event/2/0/d/2/global_421808402.jpeg)
+![enter image description here](https://pbs.twimg.com/profile_images/527039622434418688/uJPMDhZq_200x200.png)
 
 #Device Motion Capture
 
