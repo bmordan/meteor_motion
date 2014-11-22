@@ -4,9 +4,11 @@ section{
   height:19em;
   text-align: center;
   background-color: salmon;
+  margin:8% 0% 0% 0%;
 }
-samp{
+samp, cite{
   background-color: rgb(0,0,0);
   color: rgb(255,255,255);
   padding:1em;
+  font-size: 2em;
 }
